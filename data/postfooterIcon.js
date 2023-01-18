@@ -1,0 +1,19 @@
+ export const footerIcon=[
+    {
+        name:"like",
+        imageurl:"https://image.pngaaa.com/918/1336918-middle.png",
+        likedimageurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkuyU0qK259x87BwRjwbk4GgmusYKApcM2qthvxy5sC4-FUmgfta8kCiPFGVXw21K4ZM&usqp=CAU"
+    },
+    {
+        name:"comment",
+        imageurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2-ziekAofmtUnGUc7R885mC95AGKOaXjBA&usqp=CAU"
+    },
+    {
+        name:"share",
+        imageurl:"https://toppng.com/uploads/preview/icon-icon-icon-icon-instagram-share-icon-11563216824o9wwpyqeut.png"
+    },
+    {
+        name:"save",
+        imageurl:"https://toppng.com/uploads/preview/lazo-marcapaginas-icon-instagram-share-icon-11553414014cwti9wni2n.png"
+    },
+]

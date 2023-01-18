@@ -1,0 +1,30 @@
+export const user=[
+    {
+        name:"sudipBasak",
+        photo:"https://i.pinimg.com/originals/59/f8/e9/59f8e9e4f3c5ab01ee7ceb8041e851e5.jpg"
+    },
+    {
+        name:"AjitBasak",
+        photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDB5Dfj4CN5LSHe_sVP37ZAyN9NxIX8HGl1FoiYZve0pqWss51pw5BaV_01GAvPm_NSE&usqp=CAU"
+    },
+    {
+        name:"rohanBasaksharma",
+        photo:"https://i.pinimg.com/originals/59/f8/e9/59f8e9e4f3c5ab01ee7ceb8041e851e5.jpg"
+    },
+    {
+        name:"sayanBasak",
+        photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDB5Dfj4CN5LSHe_sVP37ZAyN9NxIX8HGl1FoiYZve0pqWss51pw5BaV_01GAvPm_NSE&usqp=CAU"
+    },
+    {
+        name:"tapanBasak",
+        photo:"https://i.pinimg.com/originals/59/f8/e9/59f8e9e4f3c5ab01ee7ceb8041e851e5.jpg"
+    },
+    {
+        name:"pritamBasak",
+        photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDB5Dfj4CN5LSHe_sVP37ZAyN9NxIX8HGl1FoiYZve0pqWss51pw5BaV_01GAvPm_NSE&usqp=CAU"
+    },
+    {
+        name:"Anuj sharma",
+        photo:"https://i.pinimg.com/originals/59/f8/e9/59f8e9e4f3c5ab01ee7ceb8041e851e5.jpg"
+    },
+]
